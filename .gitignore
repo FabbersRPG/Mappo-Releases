@@ -1,0 +1,16 @@
+# Ignora as pastas de Build e os arquivos .zip pesados (eles vao para o Releases, nao para o commit comum)
+Build_Do_Jogo/
+Launcher_Build/
+Instalador_Final/
+*.zip
+*.exe
+*.pdb
+
+# Caso voce salve projetos da Unity aqui perto no futuro
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
